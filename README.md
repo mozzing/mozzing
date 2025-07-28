@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **mozzing/mozzing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,7 +21,7 @@ test: 테스트 코드 추가
 chore: 빌드 업무, 패키지 매니저 설정 등
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=120&section=header&text=Welcome%20to%20mozzing%20Github!%F0%9F%91%8B&fontSize=50" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=160&text=Welcome%20to%20mozzing%20Github!%F0%9F%91%8B&fontSize=35&animation=twinkling&fontAlign=68&fontAlignY=36)
 
 ---
 
@@ -61,5 +59,36 @@ chore: 빌드 업무, 패키지 매니저 설정 등
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
 ---
+<!--
+## 📊 GitHub Stats
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=mozzing&show_icons=true&theme=default" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozzing&layout=compact&card_width=280&langs_count=5&theme=default" />
+    </td>
+  </tr>
+</table>
 
+---
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mozzing&theme=default)](https://git.io/streak-stats)
+
+---
+
+## 👀 Visitors
+
+![Visitor Count](https://komarev.com/ghpvc/?username=mozzing&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
+## 🧮 solved.ac Tier
+[![solved.ac mozzing](https://mazassumnida.wtf/api/v2/generate_badge?boj=jemu0120)](https://solved.ac/jemu0120)
+
+---
+-->
