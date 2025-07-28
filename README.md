@@ -23,6 +23,11 @@ chore: 빌드 업무, 패키지 매니저 설정 등
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=160&text=Welcome%20to%20mozzing%20Github!%F0%9F%91%8B&fontSize=35&animation=twinkling&fontAlign=68&fontAlignY=36)
 
+더 나은 개발자가 되기 위해 꾸준히 배우고 성장하고 있는 이제무입니다.  
+• 문제를 해결하는 과정에서 개발의 재미와 성취감을 느끼고 있습니다.  
+• 단순히 코드를 구현하는 것을 넘어서, 시스템의 흐름과 구조를 이해하려 노력하고 있습니다.  
+• 소통과 협업을 바탕으로 함께 성장해나가는 개발자가 되고 싶습니다.
+
 ---
 
 ## 🛠️ Tech Stack
